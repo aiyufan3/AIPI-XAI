@@ -1,7 +1,5 @@
 # AIPI - XAI | Adversarial Patches
 
-## AIPI 590 - Assignment #02
-
 ## Author: Yufan Ai
 
 ### Overview
