@@ -1,4 +1,4 @@
-# AIPI - XAI | Adversarial Patches
+# XAI Adversarial Patches
 
 ## Author: Yufan Ai
 
